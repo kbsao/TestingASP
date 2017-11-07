@@ -1,0 +1,30 @@
+﻿body {
+    background-image: url(images/WelcomeBG3.jpg) !important;
+    background-size: cover !important;
+}
+
+#book_new:hover {
+    background-color: crimson !important;
+    color: #ffffff !important;
+    border: hidden !important;
+}
+
+#book_container {
+    background: rgba(0,0,0,0.6);
+    width: 1000px;
+    border-radius: 20px;
+}
+
+#book {
+    background: rgba(0,0,0,0.6);
+    height: 400px;
+    width: 1700px;
+    border-radius: 20px;
+}
+
+#div_books_list {
+    background: rgba(0,0,0,0.6);
+    height: 400px;
+    width: 1000px;
+    border-radius: 20px;
+}

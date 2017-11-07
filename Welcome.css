@@ -1,0 +1,108 @@
+﻿#Background_Cover {
+    background-image: url(images/WelcomeBG2.jpg);
+    background-size: cover;
+}
+
+
+
+
+#HomePage{
+    align-self: center;
+    position: absolute;
+    border: 2px solid;
+    align-content:center;
+    top:50%;
+    left:44%;
+    float: left;
+    
+}
+
+#page_view {
+    position: center;
+    float: left;
+    left: 70px;
+    padding-left:120px;
+    text-align: center;
+}
+
+
+
+#Label1 {
+    background: rgba(0,0,0,0.6);
+    font-family: Candara;
+    font-size: 32px;
+    text-align: center;
+    float: left;
+    border: 2px solid;
+    display: flex;
+    position: absolute;
+    left: 100px;
+    right: 100px;
+    top: 40px;
+    border-radius: 30px;
+    color: #d8d8d8;
+}
+
+#book_name {
+    background: rgba(0,0,0,0.6);
+    font-family: Candara;
+    font-size: 32px;
+    text-align: center;
+    float: left;
+    border: 2px solid;
+    display: flex;
+    position: absolute;
+    left: 100px;
+    right: 100px;
+    top: 40px;
+    border-radius: 30px;
+    color: #d8d8d8;
+}
+
+#book_author {
+    background: rgba(0,0,0,0.6);
+    font-family: Candara;
+    font-size: 32px;
+    text-align: center;
+    float: left;
+    border: 2px solid;
+    display: flex;
+    position: absolute;
+    left: 100px;
+    right: 100px;
+    top: 40px;
+    border-radius: 30px;
+    color: #d8d8d8;
+}
+
+#book_publisher {
+    background: rgba(0,0,0,0.6);
+    font-family: Candara;
+    font-size: 32px;
+    text-align: center;
+    float: left;
+    border: 2px solid;
+    display: flex;
+    position: absolute;
+    left: 100px;
+    right: 100px;
+    top: 40px;
+    border-radius: 30px;
+    color: #d8d8d8;
+}
+
+#book_details_submit {
+    background: rgba(0,0,0,0.6);
+    font-family: Candara;
+    font-size: 32px;
+    text-align: center;
+    float: left;
+    border: 2px solid;
+    display: flex;
+    position: absolute;
+    left: 100px;
+    right: 100px;
+    top: 40px;
+    border-radius: 30px;
+    color: #d8d8d8;
+}

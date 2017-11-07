@@ -1,0 +1,41 @@
+﻿body {
+    background-image: url(images/WelcomeBG3.jpg) !important;
+    background-size: cover !important;
+}
+
+#page_view {
+    background: rgba(0,0,0,0.6);
+    opacity: 10;
+    height: 300px;
+    width: 800px;
+    border-radius: 20px;
+}
+
+
+#details_submit:hover {
+    height: 30px;
+    background-color: crimson !important;
+    color: #ffffff !important;
+    border: hidden !important;
+}
+
+label{
+    width:200px !important;
+    display:inline-block;
+    text-align:right;
+}
+
+#div_purchase {
+    background: rgba(0,0,0,0.6);
+    opacity: 10;
+    height: 280px;
+    width: 900px;
+    border-radius: 20px;
+    z-index: 100;
+}
+
+#user_name_value, #user_email_value {
+    
+    margin-left: 4px !important;
+}
+

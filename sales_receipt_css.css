@@ -1,0 +1,43 @@
+﻿body {
+    background-image: url(images/WelcomeBG3.jpg) !important;
+    background-size: cover !important;
+}
+
+
+#invoice_form {   
+    top:50px;
+    background-color: white;
+    width: 700px;
+    height: 500px
+}
+#showdate {
+  position:absolute;
+  left:850px;
+}
+
+#cust_name {
+    font-size: 20px
+}
+
+#cust_name_value {
+    font-size: 20px
+}
+#email {
+ font-size:20px;
+ display:inline;
+}
+
+#item_summary {
+  position:center;
+  font-size:25px
+}
+#total_items {
+    position: absolute;
+    left: 570px;
+    font-size: 15px
+}
+#total_items_value {
+    position: absolute;
+    left: 730px;
+}
+

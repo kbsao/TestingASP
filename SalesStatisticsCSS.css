@@ -1,0 +1,12 @@
+﻿#div_user {
+    background: rgba(0,0,0,0.6);
+    height: 350px;
+    width: 500px;
+    border-radius: 20px;
+}
+
+#Button1:hover, #Button2:hover, #Button3:hover, #Button4:hover {
+    background-color: crimson !important;
+    color: #ffffff !important;
+    border: hidden !important;
+}

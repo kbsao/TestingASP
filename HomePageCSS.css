@@ -1,0 +1,5 @@
+﻿#book_srch:hover, #book_sales:hover, #book_search:hover, #Button1:hover {
+    background-color: crimson !important;
+    color: #ffffff !important;
+    border: hidden !important;
+}

@@ -1,0 +1,79 @@
+﻿
+body {
+        background-image: url(images/WelcomeBG3.jpg) !important;
+        background-size: cover !important;
+}
+#page_view{
+    background: rgba(0,0,0,0.6);
+    opacity: 10;
+    height: 300px;
+    width: 800px;
+    border-radius: 20px;
+}
+#book_res{
+    background: rgba(0,0,0,0.6);
+    opacity: 10;
+    height: 200px;
+    width: 1000px;
+    border-radius: 20px;
+    z-index: 100;
+}
+#book_title_srch {
+    height: 20px;
+    width: 200px;
+    background-color: lightslategrey !important;
+    color: #ffffff;
+}
+#book_subject_srch {
+    height: 20px;
+    width: 200px;
+    background-color: lightslategrey !important;
+    margin-left: 4px;
+    color: #ffffff;
+}
+#book_author_srch {
+    height: 20px;
+    width: 200px;
+    background-color: lightslategrey;
+    color: #ffffff;
+}
+#book_publisher_srch {
+    height: 20px;
+    width: 200px;
+    background-color: lightslategrey;
+}
+#book_search {
+   height:30px;
+   width:100px;
+  
+
+}
+#Button1, #cancelbtn {
+    
+    height: 30px;
+}
+
+#book_search:hover, #Button1:hover, #cancelbtn:hover {
+    background-color: crimson !important;
+    color: #ffffff !important;
+    border: hidden !important;
+}
+
+
+#div_purchase {
+    background: rgba(0,0,0,0.6);
+    opacity: 10;
+    height: 280px;
+    width: 900px;
+    border-radius: 20px;
+    z-index: 100;
+}
+
+#user_name_value, #user_email_value {
+    margin-left: 4px !important;
+}
+
+
+::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+    color: #ffffff !important;
+}

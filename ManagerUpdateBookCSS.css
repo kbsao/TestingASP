@@ -1,0 +1,12 @@
+﻿#div_books_list {
+    background: rgba(0,0,0,0.6);
+    height: 400px;
+    width: 1200px;
+    border-radius: 20px;
+}
+
+#quit_button:hover {
+    background-color: crimson !important;
+    color: #ffffff !important;
+    border: hidden !important;
+}

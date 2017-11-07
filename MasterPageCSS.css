@@ -1,0 +1,9 @@
+﻿
+#div1 {
+    background: rgba(0,0,0,0.6);
+    opacity: 10;
+    height: 200px;
+    width: 400px;
+    border-radius: 20px;
+    z-index: 100;
+}
